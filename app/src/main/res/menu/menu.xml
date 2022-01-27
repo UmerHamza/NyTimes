@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/per_1"
+        android:title="Period 1" />
+    <item
+        android:id="@+id/per_7"
+        android:title="Period 7" />
+    <item
+        android:id="@+id/per_30"
+        android:title="Period 30" />
+
+</menu>
